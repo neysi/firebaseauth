@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Firebase User Authentication App
 
 This project was bootstrapped with [Create React App]
 
